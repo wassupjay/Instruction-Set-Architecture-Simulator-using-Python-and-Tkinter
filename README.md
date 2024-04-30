@@ -7,7 +7,7 @@ The ISA Simulator is a Python-based interactive application designed to simulate
 ## Features
 
 - GUI Application: Built with tkinter for easy interaction.
-- Supports Basic Operations**: Includes `ADD`, `SUB`, `MUL`, `DIV`, `MOV`, and `HALT`.
+- Supports Basic Operations: Includes `ADD`, `SUB`, `MUL`, `DIV`, `MOV`, and `HALT`.
 - Real-Time Execution**: Execute instructions and see the results immediately.
 
 ## Prerequisites
